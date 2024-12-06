@@ -1,11 +1,32 @@
+# Data Savers
 
-## Available Scripts
+## Description
+Quick start 
 
-In the project directory, you can run:
+## Prerequisites
+Before running the project, make sure you have the following installed on your machine:
 
-### `npm start`
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (Node package manager)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
+### 1. Clone the Repository
+Clone the project repository to your local machine by running the following command in your terminal:
 
+```bash
+git clone https://github.com/your-username/your-react-project.git
+```
+### 2. Navigate to the Project Directory
+```bash
+cd your-react-project
+```
+
+### 3. Install Dependencies
+```bash
+npm install
+```
+### 4. Run the Project
+```bash
+npm start
+```
