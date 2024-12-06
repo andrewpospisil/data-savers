@@ -19,7 +19,7 @@ git clone https://github.com/andrewpospisil/data-savers.git
 ```
 ### 2. Navigate to the Project Directory
 ```bash
-cd your-react-project
+cd data-savers
 ```
 
 ### 3. Install Dependencies
